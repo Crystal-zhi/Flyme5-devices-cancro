@@ -14,7 +14,7 @@
 
 因此下載 *base_cm* 推薦使用 *git clone* 下載，第一次下載時先 *cd* 到 *devices* 目錄，然後輸入：
 
-	git clone https://github.com/14121042/Flyme5-devices-cancro.git -b lollipop-5.1
+	git clone https://github.com/14121042/Flyme5-devices-cancro.git -b cm-12.1
 
 下載完成後建議對其重命名,  *cd* 到 *devices* 目錄，輸入：
 
